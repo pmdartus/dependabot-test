@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.9.0",
-    "minimist": "^1.2.1"
+    "minimist": "^1.2.8"
   }
 }
